@@ -1,0 +1,13 @@
+{
+  "name": "laravel-quicktask",
+  "description": "",
+  "main": "",
+  "authors": [
+    "FT-Mystogan <viponlyc@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/FT-Mystogan/bower.git",
+  "ignore": [
+    "README.md"
+  ]
+}
